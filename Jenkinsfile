@@ -1,6 +1,6 @@
 node{
  stage('SCM Checkout'){
-git https://github.com/Autamation/hpy.git
+git 'https://github.com/Autamation/hpy.git'
 }
 stage('Compile-Package'){
    def mvnHome = tool name: 'M2-HONE', type: 'maven'
