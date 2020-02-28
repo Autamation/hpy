@@ -4,7 +4,7 @@
 <artifactId>NumberGenerator</artifactId>
 <packaging>jar</packaging>
 <version>1.0.1-SNAPSHOT</version>
-<name>NumberGenerator</name>
+<name>NumberGenerator24</name>
 <properties>
 <jdk.version>1.7</jdk.version>
 </properties>
